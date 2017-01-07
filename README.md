@@ -20,4 +20,4 @@ Encuentra en nuestro mapa de desarrollo los próximos pasos de este proyecto.
 Ver las  [entregas](https://github.com/CppVE/pong/releases) para un historial de cambios.
 
 ## Licencia
-[GPL](https://github.com/CppVE/pong/blob/master/LICENSE.md)
+[GPL](https://github.com/CppVE/pong/blob/master/LICENSE)
