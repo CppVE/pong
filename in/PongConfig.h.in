@@ -1,0 +1,7 @@
+// Header de configuración de Pong.
+// Cmake autogenera el header a partir de este archivo.
+// No modificar el archivo generado, pues puede ser
+// sobreescrito en una siguiente operación con Cmake.
+#define Pong_VERSION_MAJOR @Pong_VERSION_MAJOR@
+#define Pong_VERSION_MINOR @Pong_VERSION_MINOR@
+#define Pong_VERSION_PATCH @Pong_VERSION_PATCH@

@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# Build-generated files
+PongConfig.h
+
+# Build directory
+build
